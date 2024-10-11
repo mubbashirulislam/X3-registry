@@ -25,7 +25,7 @@ X3-registry is particularly useful in corporate environments where IT department
 ## Setup Instructions
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/X3-registry.git
+   git clone https://github.com/mubbashirulislam/X3-registry.git
    ```
 2. Navigate to the project directory.
    ```bash
