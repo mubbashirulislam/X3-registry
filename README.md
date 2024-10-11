@@ -8,7 +8,7 @@
 
 ## Features
 - Scans the system for installed software from the Windows Registry.
-- Detects and flags blacklisted software (e.g., Tenable, Tor, qBittorrent, uTorrent).
+- Detects and flags blacklisted software.
 - Sends a detailed security alert via email using Gmail SMTP.
 - Saves the email content as an HTML file if email sending fails.
 - User-friendly terminal output with alerts for detected violations.
