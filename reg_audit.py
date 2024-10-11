@@ -90,8 +90,12 @@ def save_email_locally(to_email, subject, body):
 
 def main():
     print("=" * 50)
-    print("CYBERSECURITY AUDIT: BLACKLISTED SOFTWARE DETECTOR")
+    print("X3-registry")
+    print("Developed by X3NIDE")
+    print("GitHub: https://github.com/mubbashirulislam")
     print("=" * 50)
+    # print("CYBERSECURITY AUDIT: BLACKLISTED SOFTWARE DETECTOR")
+    # print("=" * 50)
     
     username = get_pc_username()
     print(f"\nInitiating security scan for user: {username}")
